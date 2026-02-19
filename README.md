@@ -85,7 +85,9 @@ Built an AI-powered deal evaluation engine that:
 • Multi-agent automation systems  
 • Business-grade production automations  
 • Publishing reusable automation templates  
-
+• GTM AI automation systems (lead scoring, outreach, CRM orchestration)
+• Revenue workflow engineering
+• AI agents for sales & marketing operations
 ---
 
 🤝 Let's Build
